@@ -1,4 +1,4 @@
-# ☠️ PHANTOM BOT - "Ghost in the Machine"
+# ☠️ Phantom Bot - "Ghost in the Machine"
 
 **Hidden admin account + Auto-persistence + Defender/Firewall/UAC/Update killer + Remote Desktop + AnyDesk backdoor + 3-layer auto-recovery + Lock Screen + Black Screen + Bluescreen**
 
@@ -24,7 +24,7 @@
 
 ## 📌 DESKRIPSI
 
-PHANTOM BOT adalah alat persistent yang dirancang untuk menguasai sistem Windows secara diam-diam. Menggabungkan backdoor, persistence, lock screen, dan bypass keamanan dalam satu paket. Begitu masuk, dia tinggal selamanya.
+Phantom Bot adalah alat persistent yang dirancang untuk menguasai sistem Windows secara diam-diam. Menggabungkan backdoor, persistence, lock screen, dan bypass keamanan dalam satu paket. Begitu masuk, dia tinggal selamanya.
 
 ---
 
