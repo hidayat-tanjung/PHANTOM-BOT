@@ -256,5 +256,3 @@ net use \\192.168.x.x\IPC$ /user:AdminIzumy P@ssw0rd123!
 | Lock screen gak muncul   | Cek kode `$correctCode`, pastikan gak kehapus | 
 | AnyDesk gak install   | Koneksi internet target harus aktif | 
 
-## ⚠️ DISCLAIMER
-Tools ini dibuat untuk tujuan edukasi dan pengujian keamanan di lingkungan yang sudah diizinkan. Penggunaan untuk mengakses perangkat tanpa izin, mencuri data, atau aktivitas ilegal lainnya sepenuhnya tanggung jawab pengguna.
