@@ -26,8 +26,6 @@
 
 PHANTOM BOT adalah alat persistent yang dirancang untuk menguasai sistem Windows secara diam-diam. Menggabungkan backdoor, persistence, lock screen, dan bypass keamanan dalam satu paket. Begitu masuk, dia tinggal selamanya.
 
-**⚠️ DISCLAIMER:** Tools ini untuk tujuan edukasi. Penyalahgunaan sepenuhnya tanggung jawab pengguna.
-
 ---
 
 ## 🔧 FITUR LENGKAP
